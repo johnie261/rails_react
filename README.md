@@ -121,6 +121,7 @@ To run the project, execute the following command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Improve UI design]**
+- [ ] **[Add more functionalities]**
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
